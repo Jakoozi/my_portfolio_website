@@ -7,7 +7,8 @@
     "node": "14.x"
   },
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "start": "node dist/js/main.js"
   },
   "author": "Ogba Anthony",
   "license": "MIT",
