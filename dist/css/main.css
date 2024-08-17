@@ -105,11 +105,11 @@ body {
   background-attachment: fixed;
   background-size: cover; 
 }
-/* body#bg-img {
+body#bg-img {
     background: url(../img/css_coding.jpg);
     background-attachment: fixed;
     background-size: cover; 
-} */
+}
 body#bg-img:after {
       content: "";
       position: absolute;
