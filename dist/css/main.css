@@ -100,12 +100,16 @@ body {
   font-family: "Segoe UI", Tahoma, "Segoe UI", Tahoma, Geneva, Verdana,
  sans-serif;
   line-height: 1.5; 
+
+  background: url(../img/css_coding.jpg);
+  background-attachment: fixed;
+  background-size: cover; 
 }
-body#bg-img {
+/* body#bg-img {
     background: url(../img/css_coding.jpg);
     background-attachment: fixed;
     background-size: cover; 
-}
+} */
 body#bg-img:after {
       content: "";
       position: absolute;
